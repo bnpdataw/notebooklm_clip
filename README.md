@@ -1,12 +1,3 @@
-# Store description (Markdown template)
-
-Replace the bracketed placeholders before submitting.
-
-## Short description (one-liner)
-
-**NotebookLM Clip** exports your NotebookLM notebooks to well-formatted Markdown (plus optional chats, sources, JSON, and assets).
-
-## Full description
 
 **NotebookLM Clip** helps you export content, well-formatted Markdown plus optional chats, sources, JSON, and assets, from **NotebookLM** into files you can keep, view locally, and update as needed.
 
