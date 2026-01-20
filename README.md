@@ -1,6 +1,8 @@
 
 **NotebookLM Clip** helps you export content, well-formatted Markdown plus optional chats, sources, JSON, and assets, from **NotebookLM** into files you can keep, view locally, and update as needed.
 
+- [Edge Store](https://microsoftedge.microsoft.com/addons/detail/notebooklm-clip/mhkjheiackelhbfddnbcfiacnfciidpf)
+
 ## Feedback welcome
 
 We’re continuously improving the user experience—your suggestions are appreciated!
