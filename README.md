@@ -32,7 +32,7 @@ Files are saved into your browser’s Downloads location under the folder you ch
 
 ### Support
 
-- Email: [Email](mailto:bnpdataw@gmail.com)
+- Email: [Email](mailto:bekingcn@gmail.com)
 - Source / issues: [Github](https://github.com/bnpdataw/notebooklm_clip)
 
 ### Disclaimer
